@@ -9,3 +9,8 @@ p {
 h1 {
   font-size: 50px;
 }
+
+title {
+  font-size: 24px;
+  color: #245;
+}
